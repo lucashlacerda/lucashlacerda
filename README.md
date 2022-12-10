@@ -1,7 +1,7 @@
 ### Hi there, I'm glad to see you here 🤙
 
 <a href = "mailto:contatollacerda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-lacerda-a7156a165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-lacerda-a7156a165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&layout=compact" target="_blank"></a>
 
 - 🐱‍💻 I’m currently working at CRM Educacional
 - 📝 I’m currently learning HTML, CSS, JAVASCRIPT
@@ -13,5 +13,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucashlacerda&theme=gotham"/>
 </div>
   
-  
- 
